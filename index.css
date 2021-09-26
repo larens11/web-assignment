@@ -1,0 +1,37 @@
+#image1{
+    height: 15%;
+    width: 15%;
+}
+.topbar{
+    display: flex;
+    align-items: center ;
+}
+.header{
+    padding: 15px;
+    font-size: 20px;
+}
+#tag{
+    padding: 20px;
+}
+.header2{
+    font-size: 50px;
+}
+.para{
+    font-size: 17px;
+}
+#down{
+    padding: 20px;
+    
+}
+#button{
+    display: inline;
+}
+.second{
+    display: inline;
+    padding: 20px;
+    align-items: top;
+}
+.image{
+    padding: 40px;
+    margin-left: auto;
+}
